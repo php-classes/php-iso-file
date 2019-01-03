@@ -1,4 +1,4 @@
- <?php
+<?php
 	/**
 	 * \class CPathTableRecord
 	 * \brief An ISO-9660 Path Table Record
@@ -134,4 +134,3 @@
 			return $path;
 		}
 	}
-?>
